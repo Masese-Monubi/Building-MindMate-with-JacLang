@@ -1,0 +1,4 @@
+__pycache__/
+*.jac_compiled
+.env
+.vscode/
